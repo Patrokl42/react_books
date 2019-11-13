@@ -1,0 +1,8 @@
+.shopping-cart-table table{
+    width: 100%;
+}
+
+.shopping-cart-table .total {
+    text-align: right;
+    padding-top: 10px;
+}
